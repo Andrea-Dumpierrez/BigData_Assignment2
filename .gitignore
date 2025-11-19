@@ -208,3 +208,11 @@ __marimo__/
 
 
 *.class
+
+
+*.exe
+*.o
+
+
+__pycache__/
+*.pyc
