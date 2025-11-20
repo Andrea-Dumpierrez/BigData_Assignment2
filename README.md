@@ -111,8 +111,7 @@ Compile:
 cd java_code
 javac *.java
 
-makefile
-Copiar código
+
 
 Run:
 
